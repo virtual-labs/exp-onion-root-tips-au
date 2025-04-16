@@ -1,0 +1,48 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.There are ------- chromosomes in onion cells.",
+      "answers": {
+        "a": "Ten",
+        "b": "Eight",
+        "c": "Twenty",
+        "d": "Sixteen"
+      },
+ 
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    	 
+    	 
+
+    {
+      "question": "2. ------- is a DNA specific stain used for viewing mitosis in onion root tip cells.",
+      "answers": {
+        "a": "Feulgen stain",
+        "b": "Nigrosin stain",
+        "c": "Phloroglucinol stain",
+        "d": "Carbol fuchsin stain"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. ------- N HCl is used for softening of onion root tip cells before Feulgen staining.",
+      "answers": {
+        "a": "10",
+        "b": "0.01",
+        "c": "0.1",
+        "d": "1"
+      },
+     
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+ 	 
