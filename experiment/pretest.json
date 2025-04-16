@@ -2,43 +2,47 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Which is the site of protein synthesis in a cell?",
+      "question": "1.There are ------- chromosomes in onion cells.",
       "answers": {
-        "a": "Lysosome",
-        "b": "Golgi",
-        "c": "Smooth endoplasmic reticulum",
-        "d": "Ribosomes"
+        "a": "Ten",
+        "b": "Eight",
+        "c": "Twenty",
+        "d": "Sixteen"
       },
  
-      "correctAnswer": "d",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
 
-
+    	 
+    	 
 
     {
-      "question": "2. ------- is the organelle which produces transition vesicles to transport molecules produced in ER to the Golgi.",
+      "question": "2. ------- is a DNA specific stain used for viewing mitosis in onion root tip cells.",
       "answers": {
-        "a": "Lysosome",
-        "b": "Mitochondria",
-        "c": "Smooth ER",
-        "d": "Nucleus"
+        "a": "Feulgen stain",
+        "b": "Nigrosin stain",
+        "c": "Phloroglucinol stain",
+        "d": "Carbol fuchsin stain"
       },
       
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
 
     
     {
-      "question": "3. Smooth endoplasmic reticulum is the primary site for lipid biosynthesis.",
+      "question": "3. ------- N HCl is used for softening of onion root tip cells before Feulgen staining.",
       "answers": {
-        "a": "True",
-        "b": "False"
+        "a": "10",
+        "b": "0.01",
+        "c": "0.1",
+        "d": "1"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
-}
+}	 
+ 	 
