@@ -4,11 +4,11 @@
 <b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
 <b> Lab | <b> Cell biology Virtual Lab I
-<b> Experiment|     <b> Isolation of Mitochondria
+<b> Experiment|     <b> Mitosis in Onion Root Tips
 
 ### About the Experiment 
 
-The "Isolation of Mitochondria" virtual lab, offered by Amrita Vishwa Vidyapeetham, provides an interactive platform to understand the process of isolating mitochondria from cells using differential and density gradient centrifugation. It covers the structural and functional aspects of mitochondria, emphasizing their role in ATP production and cellular metabolism. This virtual lab is designed to enhance comprehension of mitochondrial biology through theoretical explanations, procedural demonstrations, and self-evaluation tools.​
+The "Mitosis in Onion Root Tips" experiment allows students to observe different stages of mitosis—prophase, metaphase, anaphase, and telophase—using stained onion root tip cells under a microscope. It helps visualize cell division and understand the mitotic process.
 
 <b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
