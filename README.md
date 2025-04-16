@@ -1,24 +1,17 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Cell biology Virtual Lab I
+<b> Experiment|     <b> Isolation of Mitochondria
 
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+The "Isolation of Mitochondria" virtual lab, offered by Amrita Vishwa Vidyapeetham, provides an interactive platform to understand the process of isolating mitochondria from cells using differential and density gradient centrifugation. It covers the structural and functional aspects of mitochondria, emphasizing their role in ATP production and cellular metabolism. This virtual lab is designed to enhance comprehension of mitochondrial biology through theoretical explanations, procedural demonstrations, and self-evaluation tools.​
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Dr. Shyam Diwakar 
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
-
-### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+<b> Institute | <b>  Amrita Vishwa Vidyapeetham
+<b> Email id|     <b>  shyam@amrita.edu
+<b> Department |  Amrita Mind Brain Center
