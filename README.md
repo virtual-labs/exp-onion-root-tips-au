@@ -3,7 +3,7 @@
 
 <b>Discipline | <b>Biotechnology and Biomedical Engineering
 :--|:--|
-<b> Lab | <b> Cell biology Virtual Lab I
+<b> Lab | <b> Cell biology Virtual Lab  II
 <b> Experiment|     <b> Mitosis in Onion Root Tips
 
 ### About the Experiment 
